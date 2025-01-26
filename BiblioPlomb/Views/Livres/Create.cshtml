@@ -1,0 +1,77 @@
+﻿@model BiblioPlomb.Models.Livre
+
+@* @{ *@
+@*     ViewData["Title"] = "Create"; *@
+@* } *@
+
+@{
+    ViewData["Title"] = ViewData["Title"] ?? "Default Title";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h4>Livre</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Titre" class="control-label"></label>
+                <input asp-for="Titre" class="form-control" value="@Model.Titre" />
+                <span asp-validation-for="Titre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Auteur" class="control-label"></label>
+                <input asp-for="Auteur" class="form-control" value="@Model.Auteur" />
+                <span asp-validation-for="Auteur" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Dispo" /> @Html.DisplayNameFor(model => model.Dispo)
+                </label>
+            </div>
+
+
+
+            <div class="form-group">
+                <label asp-for="Etat" class="control-label"></label>
+                <!-- Utilisation de For= et Items= dans select pour les options de l'enum -->
+                <select asp-for="Etat" class="form-control">
+                    @foreach (var etat in Enum.GetValues(typeof(BiblioPlomb.Models.EtatLivre)))
+                    {
+                        <option value="@etat">@etat</option>
+                    }
+                </select>
+                <span asp-validation-for="Etat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ISBN" class="control-label"></label>
+                <input asp-for="ISBN" class="form-control" />
+                <span asp-validation-for="ISBN" class="text-danger"></span>
+            </div>         
+
+            <div class="form-group">
+                <label asp-for="GenreId" class="control-label"></label>
+                <select asp-for="GenreId" class="form-control" asp-items="ViewBag.GenreId"></select>
+                <span asp-validation-for="GenreId" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Retour à la liste</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+@* 👌😊 *@

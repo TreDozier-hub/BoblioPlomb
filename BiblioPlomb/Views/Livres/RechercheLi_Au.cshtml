@@ -1,0 +1,24 @@
+﻿@model IEnumerable<BiblioPlomb.DTO.AuteursLivresDTO>
+
+<div id="booksTable">
+
+    <h1>La liste de livres</h1>
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Titre</th>
+                <th>Auteur</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                    <tr>
+                        <td>@item.LivreTitre</td>
+                        <td>@item.AuteurNom</td>
+                    </tr>
+            }
+        </tbody>
+    </table>
+</div>
