@@ -728,3 +728,12 @@ C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\B
 C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\obj\Debug\net9.0\BiblioPlomb.pdb
 C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\obj\Debug\net9.0\BiblioPlomb.genruntimeconfig.cache
 C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\obj\Debug\net9.0\ref\BiblioPlomb.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\obj\Debug\net9.0\compressed\5v05q4weqt-az5z5ux86e.gz
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

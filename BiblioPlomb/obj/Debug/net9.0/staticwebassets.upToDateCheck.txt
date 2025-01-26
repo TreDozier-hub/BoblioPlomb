@@ -5,6 +5,7 @@ C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\B
 C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\wwwroot\images\wmremove-transformed.svg
 C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\wwwroot\lib\jquery\dist\jquery.min.map
 C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
@@ -62,6 +63,7 @@ C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\B
 C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Sauvegarde_PROJETS\Projet_BiblioPlomb\BiblioPlomb\BiblioPlomb\BiblioPlomb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\wmremove-transformed.svg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

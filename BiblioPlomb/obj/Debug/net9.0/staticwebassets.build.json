@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oofrK7Q2XcYZbCo9mkU+LJvtyGiUcBYiJ/WgHhnHF8g=",
+  "Hash": "xrfTTuZZNtCjZnnM+z0Xi420woTZsL1sQIfWvUSqBjc=",
   "Source": "BiblioPlomb",
   "BasePath": "_content/BiblioPlomb",
   "Mode": "Default",
@@ -162,6 +162,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Identity": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\obj\\Debug\\net9.0\\compressed\\5v05q4weqt-az5z5ux86e.gz",
+      "SourceId": "BiblioPlomb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BiblioPlomb",
+      "RelativePath": "images/wmremove-transformed#[.{fingerprint=az5z5ux86e}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\wwwroot\\images\\wmremove-transformed.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "967qhbqux9",
+      "Integrity": "0YMT6yQ/B1oFyTnfaSZ4pali21Lng3ayzUpKAtGkiuA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\wwwroot\\images\\wmremove-transformed.svg"
     },
     {
       "Identity": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\obj\\Debug\\net9.0\\compressed\\7thqeoysk0-ttgo8qnofa.gz",
@@ -1443,6 +1464,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\wwwroot\\images\\wmremove-transformed.svg",
+      "SourceId": "BiblioPlomb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\wwwroot\\",
+      "BasePath": "_content/BiblioPlomb",
+      "RelativePath": "images/wmremove-transformed#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "az5z5ux86e",
+      "Integrity": "Bnb5/a1bz6wETWeC/s7e0VyhwI5poNLozlVJZUuVkqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\wmremove-transformed.svg"
     },
     {
       "Identity": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\wwwroot\\js\\site.js",
@@ -3916,6 +3958,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "images/wmremove-transformed.az5z5ux86e.svg",
+      "AssetFile": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\obj\\Debug\\net9.0\\compressed\\5v05q4weqt-az5z5ux86e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000574382539"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1740"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0YMT6yQ/B1oFyTnfaSZ4pali21Lng3ayzUpKAtGkiuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Bnb5/a1bz6wETWeC/s7e0VyhwI5poNLozlVJZUuVkqA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "az5z5ux86e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/wmremove-transformed.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bnb5/a1bz6wETWeC/s7e0VyhwI5poNLozlVJZUuVkqA="
+        }
+      ]
+    },
+    {
+      "Route": "images/wmremove-transformed.az5z5ux86e.svg",
+      "AssetFile": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\wwwroot\\images\\wmremove-transformed.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bnb5/a1bz6wETWeC/s7e0VyhwI5poNLozlVJZUuVkqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "az5z5ux86e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/wmremove-transformed.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bnb5/a1bz6wETWeC/s7e0VyhwI5poNLozlVJZUuVkqA="
+        }
+      ]
+    },
+    {
+      "Route": "images/wmremove-transformed.az5z5ux86e.svg.gz",
+      "AssetFile": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\obj\\Debug\\net9.0\\compressed\\5v05q4weqt-az5z5ux86e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0YMT6yQ/B1oFyTnfaSZ4pali21Lng3ayzUpKAtGkiuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "az5z5ux86e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/wmremove-transformed.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0YMT6yQ/B1oFyTnfaSZ4pali21Lng3ayzUpKAtGkiuA="
+        }
+      ]
+    },
+    {
+      "Route": "images/wmremove-transformed.svg",
+      "AssetFile": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\obj\\Debug\\net9.0\\compressed\\5v05q4weqt-az5z5ux86e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000574382539"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1740"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0YMT6yQ/B1oFyTnfaSZ4pali21Lng3ayzUpKAtGkiuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Bnb5/a1bz6wETWeC/s7e0VyhwI5poNLozlVJZUuVkqA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bnb5/a1bz6wETWeC/s7e0VyhwI5poNLozlVJZUuVkqA="
+        }
+      ]
+    },
+    {
+      "Route": "images/wmremove-transformed.svg",
+      "AssetFile": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\wwwroot\\images\\wmremove-transformed.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bnb5/a1bz6wETWeC/s7e0VyhwI5poNLozlVJZUuVkqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bnb5/a1bz6wETWeC/s7e0VyhwI5poNLozlVJZUuVkqA="
+        }
+      ]
+    },
+    {
+      "Route": "images/wmremove-transformed.svg.gz",
+      "AssetFile": "C:\\Users\\2ki\\OneDrive\\Bureau\\Simplon.NET\\Sauvegarde_PROJETS\\Projet_BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\BiblioPlomb\\obj\\Debug\\net9.0\\compressed\\5v05q4weqt-az5z5ux86e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0YMT6yQ/B1oFyTnfaSZ4pali21Lng3ayzUpKAtGkiuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0YMT6yQ/B1oFyTnfaSZ4pali21Lng3ayzUpKAtGkiuA="
         }
       ]
     },
